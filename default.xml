@@ -27,12 +27,7 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
-  <project path="device/samsung/maguro" name="CyanogenMod/android_device_samsung_maguro" />
-  <project path="device/samsung/tuna" name="CyanogenMod/android_device_samsung_tuna" />
-  <project path="device/htc/common" name="fpasha/android_device_htc_common" />
-  <project path="device/htc/msm7x30-common" name="fpasha/android_device_htc_msm7x30-common" />
   <project path="device/htc/saga" name="fpasha/cyanogen_device_htc_saga" />
-  <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
   <project path="external/apache-harmony" name="platform/external/apache-harmony" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
@@ -195,6 +190,7 @@
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" />
+  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
   <project path="packages/apps/Gallery" name="CyanogenMod/android_packages_apps_Gallery" />
@@ -243,7 +239,6 @@
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
   <project path="prebuilt" name="CyanogenMod/android_prebuilt" />
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
-  <project path="vendor/htc" name="fpasha/proprietary_vendor_htc" revision="refs/heads/gingerbread" />
   <project path="sdk" name="CyanogenMod/android_sdk" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
   <project path="system/core" name="CyanogenMod/android_system_core" />
